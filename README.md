@@ -1,1 +1,1 @@
-# Seminar_1HW
+#Added file readme.md 
